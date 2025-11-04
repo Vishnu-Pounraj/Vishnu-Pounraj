@@ -71,9 +71,13 @@ Here’s what I’m learning next or improving:
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://i.imgur.com/ZKZC1U8.gif" width="100%" alt="Animated gradient border" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Pounraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+Vishnu+Pounraj;Welcome+to+my+GitHub!;Check+out+my+projects+🚀" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Pounraj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Pounraj&show_icons=true&theme=tokyonight" alt="stats" />
