@@ -71,9 +71,7 @@ Here’s what I’m learning next or improving:
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+I'm+Vishnu+Pounraj;Welcome+to+my+GitHub!;Check+out+my+projects+🚀" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Pounraj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
@@ -85,11 +83,11 @@ Here’s what I’m learning next or improving:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnu-p4&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishnu-Pounraj&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-p4&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Pounraj&layout=compact&theme=tokyonight" />
 </p>
 
 ---
