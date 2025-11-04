@@ -23,7 +23,7 @@ I'm **VISHNU P**, a creative and detail-obsessed **Full Stack Web Developer** wi
 
 ---
 
-## 🧠 Learning Roadmap
+## 🧠 Learning
 
 Here’s what I’m learning next or improving:
 
