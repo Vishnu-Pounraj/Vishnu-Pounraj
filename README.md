@@ -4,10 +4,7 @@
 <h1 align="center">Hi there 👋, I'm VISHNU P!</h1>
 <h3 align="center">🐍 Full Stack Developer | Python + Django + Frontend Magician 🪄</h3>
 
-<p align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Full+Stack+Web+Developer;Python+%26+Django+Expert;%20" alt="Typing SVG" />
-</p><br>
+
 <p align="center">
   <img src="https://i.imgflip.com/YOUR_BOY_GIF_ID.gif" width="250px" alt="Animated Character" />
 </p>
