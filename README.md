@@ -70,9 +70,13 @@ Here’s what I’m learning next or improving:
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://i.imgur.com/ZKZC1U8.gif" width="100%" alt="Animated gradient border" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Pounraj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnu-p4&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Pounraj&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
