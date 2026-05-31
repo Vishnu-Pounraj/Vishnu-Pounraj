@@ -2,7 +2,7 @@
 <!-- Cute & Dev-Powered GitHub Profile -->
 
 <h1 align="center">Hi there 👋, I'm VISHNU P!</h1>
-<h3 align="center">🐍 Full Stack Developer | Python + Django + Frontend Magician 🪄</h3>
+<h3 align="center"> AIML Developer || 🐍 Full Stack Developer | Python + Django + Fastapi </h3>
 
 
 <p align="center">
@@ -100,17 +100,6 @@ Here’s what I’m learning next or improving:
   <a href="https://vishnuvishnu.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   
 </p>
-
----
-
-## 💡 Fun Facts
-
-- 🤓 I love writing clean code and making UIs that "spark joy"
-- 🎵 Music is my coding partner (mostly lo-fi or synthwave)
-- 🐍 My favorite Python package is `requests` (or maybe `pydantic`)
-- ☕ 2 cups of coffee = 1 productive day
-- 💬 I believe the best developers never stop learning
-
 ---
 
 > 💖 *“Code with love. Build with passion. Ship with pride.”*
