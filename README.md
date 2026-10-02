@@ -2,7 +2,7 @@
 <!-- Cute & Dev-Powered GitHub Profile -->
 
 <h1 align="center">Hi there 👋, I'm VISHNU P!</h1>
-<h3 align="center"> AIML Developer || 🐍 Full Stack Developer | Python + Django + Fastapi </h3>
+<h3 align="center"> AI Engineer || 🐍 Full Stack Developer | Python + Artificial Intelligence + RAG + Fastapi + MongoDB + Langchain + Langgraph </h3>
 
 
 <p align="center">
