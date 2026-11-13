@@ -87,24 +87,32 @@ I'm **VISHNU P**, an **AI Engineer** with hands-on experience designing and deve
 
 ## 🏅 Certifications & Education 🎓
 
-- 📜 **Python Backend development** – BCS *(Chennai)*
-- 📜 **Responsive Web Design** – AIT Academy
+- 📜 **Python for Everybody** – Coursera
+- 📜 **Responsive Web Design** – freeCodeCamp
 - 🏆 **Python Full Stack Developer** – App Innovation Technologies *(Coimbatore)*
 - 🎓 **B.E. in Computer Science and Engineering** – Shreenivasa Engineering College *(CGPA: 7.99/10.0)*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Analytics & Trophies 🏆
+## 📊 GitHub Analytics, Commits & Trophies 🏆
 
+<!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vishnu-Pounraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
+<!-- Commit Activity Graph Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Pounraj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishnu-Pounraj&theme=tokyonight&hide_border=true&area=true&custom_title=Commit%20Activity%20Over%20Time" alt="GitHub Commit Activity Graph" />
+</p>
+
+<!-- Stats & Top Languages (include_all_commits included) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishnu-Pounraj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu-Pounraj&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Vishnu-Pounraj&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
