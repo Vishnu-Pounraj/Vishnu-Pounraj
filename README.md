@@ -44,8 +44,8 @@ I'm **VISHNU P**, an innovative **AI Engineer** passionate about building scalab
 
 ## 🏅 Certifications & Achievements ✨
 
-- 📜 **Python for Everybody** – Coursera
-- 📜 **Responsive Web Design** – freeCodeCamp
+- 📜 **Python Backend FastAPI** – BCS Technology
+- 📜 **Responsive Web Design** – App Innovation Technologies
 - 🏆 **Python Full Stack Developer** – App Innovation Technologies
 - ⭐ **Active Contributor** to AI & open-source ecosystems
 
