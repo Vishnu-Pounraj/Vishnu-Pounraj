@@ -87,8 +87,8 @@ I'm **VISHNU P**, an **AI Engineer** with hands-on experience designing and deve
 
 ## 🏅 Certifications & Education 🎓
 
-- 📜 **Python for Everybody** – Coursera
-- 📜 **Responsive Web Design** – freeCodeCamp
+- 📜 **Python Backend development** – BCS *(Chennai)*
+- 📜 **Responsive Web Design** – AIT Academy
 - 🏆 **Python Full Stack Developer** – App Innovation Technologies *(Coimbatore)*
 - 🎓 **B.E. in Computer Science and Engineering** – Shreenivasa Engineering College *(CGPA: 7.99/10.0)*
 
